@@ -1,0 +1,4 @@
+bool front_lights_on
+---
+# True if the change is made
+bool success
